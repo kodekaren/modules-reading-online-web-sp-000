@@ -12,8 +12,7 @@ class Dancer
 end
 
 
-```ruby
+ruby
 class Kid
   extend MetaDancing
 end
-```
