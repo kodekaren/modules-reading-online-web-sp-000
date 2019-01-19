@@ -6,3 +6,14 @@ module MetaDancing
   end
 end
 ```
+```ruby
+class Dancer
+  extend MetaDancing
+end
+```
+
+```ruby
+class Kid
+  extend MetaDancing
+end
+```
