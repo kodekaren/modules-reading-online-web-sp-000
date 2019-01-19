@@ -5,12 +5,12 @@ module MetaDancing
     "This class produces objects that love to dance."
   end
 end
-```
-```ruby
+
+ruby
 class Dancer
   extend MetaDancing
 end
-```
+
 
 ```ruby
 class Kid
